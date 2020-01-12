@@ -1,3 +1,10 @@
+# tic-tac-toe
+
+React JS tutorial - a tic tac toe game with "time travel", alowing you to step 
+back to any prior state.
+
+Familiarizes developer with React JS basics.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
